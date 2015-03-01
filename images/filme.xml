@@ -1,0 +1,42 @@
+<catalog>
+	<film>
+		<title>Need for Speed</title>
+		<date>15.03.2014 </date>
+		<hour> 2</hour>
+		<poster>1 </poster>
+		<description>2 </description>
+		<genre>1 </genre>
+	</film>
+	<film>
+		<title> 1</title>
+		<date>1 </date>
+		<hour> 1</hour>
+		<poster>1 </poster>
+		<description> 1</description>
+		<genre>1 </genre>
+	</film>
+	<film>
+		<title>2 </title>
+		<date> 2</date>
+		<hour>2 </hour>
+		<poster>2 </poster>
+		<description> 2</description>
+		<genre> 2</genre>
+	</film>
+	<film>
+		<title>3 </title>
+		<date>2 </date>
+		<hour> 2</hour>
+		<poster>2 </poster>
+		<description>2 </description>
+		<genre>2 </genre>
+	</film>
+	<film>
+		<title>4 </title>
+		<date> 4</date>
+		<hour> 4</hour>
+		<poster> 4</poster>
+		<description> 4</description>
+		<genre> 4</genre>
+	</film>
+	</catalog>

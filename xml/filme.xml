@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<film>
+		<id>1</id>
+		<title>Need for Speed</title>
+		<date>14th of March 2014/15th of March 2014/16th of March 2014 </date>
+		<hour> 17.00/20.00</hour>
+		<poster>images/posters/i2.jpg </poster>
+		<description>Fresh from prison, a street racer who was framed by a wealthy business associate joins a cross country race with revenge in mind. His ex-partner, learning of the plan, places a massive bounty on his head as the race begins. </description>
+		<genre> Action | Crime | Drama </genre>
+	    <trailer> https://www.youtube.com/embed/fsrJWUVoXeM </trailer>
+	</film>
+	<film>
+		<id>2</id>
+		<title> 300: Rise of an Empire</title>
+		<date>2th of March 2014/3th of March 2014/4th of March 2014 </date>
+		<hour> 18:00/19:00/21:00</hour>
+		<poster>images/posters/i3.jpg </poster>
+		<description> Greek general Themistokles leads the charge against invading Persian forces led by mortal-turned-god Xerxes and Artemisia, vengeful commander of the Persian navy.</description>
+		<genre> Action | Drama | Fantasy  </genre>
+		<trailer> https://www.youtube.com/embed/2zqy21Z29ps </trailer>
+	</film>
+	<film>
+		<id>3</id>
+		<title>The Wolf of Wall Street </title>
+		<date>14th of March 2014/15th of March 2014/16th of March 2014 </date>
+		<hour>19.00/22.00 </hour>
+		<poster>images/posters/i1.jpg </poster>
+		<description> Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.</description>
+		<genre>  Biography | Comedy | Crime</genre>
+		<trailer> https://www.youtube.com/embed/iszwuX1AK6A </trailer>
+	</film>
+	
+
+</catalog>
